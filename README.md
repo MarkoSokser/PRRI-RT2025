@@ -9,6 +9,7 @@ A RayCasting based FPS game developed by students and the [Artificial Intelligen
 - Vođenje tima i koordinacija rada
 - Provjera i testiranje implementacija svih članova tima
 - Osiguravanje kvalitete i praćenje napretka projekta
+- Praćenje poštivanja rokova
 
 # Credits
 
